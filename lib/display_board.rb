@@ -11,8 +11,8 @@ def display_board(board)
 end
 
 
-def display_board(board1)
-    board1 = [" ", " ", " ", " ", " X " , " ", " ", " ", " "]
+def display_board(board)
+    board = [" ", " ", " ", " ", " X " , " ", " ", " ", " "]
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
